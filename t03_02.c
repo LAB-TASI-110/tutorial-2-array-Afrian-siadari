@@ -41,11 +41,9 @@ int main() {
         prev_number = current_number;
     }
    
-    printf("Maka nilai Minimum dan Maximumnya adalah:\n");
     printf("%d\n", min_val);
     printf("%d\n", max_val);
     
-     printf("nilai rata-rata terendah:\n");
     if (n >= 2) {
         printf("%.2f\n", min_consecutive_avg);
     } else {

@@ -1,4 +1,4 @@
-// 12S25003-Afrian Josse Siadari 
+// 12S25003-Afrian Josse siadari 
 #include <stdio.h>
 
 int main() {
@@ -27,7 +27,6 @@ int main() {
         }
     }
     
-    printf("Maka nilai Minimum dan Maximumnya adalah:\n");
     printf("%d\n", min_val);
     printf("%d\n", max_val);
 
